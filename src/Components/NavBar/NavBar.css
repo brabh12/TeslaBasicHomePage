@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: rgb(76, 54, 199);
+}
+.nav-logo{
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 500;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+    gap: 90px;
+}
+.nav-cn{
+    border-radius: 50px;
+    padding: 10px 40px;
+    background: rgb(76, 54, 199);
+    color: white;
+
+}
